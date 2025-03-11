@@ -1,4 +1,4 @@
-## Validator Directory: 0base.vc
+## Validator Directory: Nodeist
 
 1) The name of your validator
 
